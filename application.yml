@@ -5,9 +5,7 @@
 
 
 
-server:
-  port: 8020
-  
+
 eureka:
   client:
     serviceUrl:
